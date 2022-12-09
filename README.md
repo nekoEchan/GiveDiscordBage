@@ -16,8 +16,6 @@
 
 2. Install bot server [BounceServer.exe]
    - On folder, open a `BounceServer.exe` as administrator. Type `install server.db +start +both.a` with a space and drag the desired folder into it. Press enter. 
-  
- ![](https://i.alexflipnote.dev/7PvV4Eo.png)
  
 3. Install `requirements.txt` with the command `pip install -r requirements.txt`
    - If you are on Windows, you might need to run command prompt as Administrator)

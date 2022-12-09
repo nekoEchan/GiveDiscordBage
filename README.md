@@ -13,8 +13,9 @@
 1. Download and install [Python](https://www.python.org/downloads) if you haven't already.
 
    ![](https://i.alexflipnote.dev/2Ucs5Hf.png)
-2. Install bot server, start - [BounceServer.exe]
-   - On Windows, open a `command prompt` as administrator. Type `install server.db +start +both.a` with a space and drag the desired folder into it. Press enter. 
+
+2. Install bot server [BounceServer.exe]
+   - On folder, open a `BounceServer.exe` as administrator. Type `install server.db +start +both.a` with a space and drag the desired folder into it. Press enter. 
   
  ![](https://i.alexflipnote.dev/7PvV4Eo.png)
  
